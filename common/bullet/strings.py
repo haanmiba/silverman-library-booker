@@ -1,0 +1,30 @@
+class BulletStrings:
+    class Colors:
+        DEFAULT = 'default'
+
+        FOREGROUND = 'foreground'
+        FOREGROUND_BLACK = 'foreground.black'
+        FOREGROUND_RED = 'foreground.red'
+        FOREGROUND_GREEN = 'foreground.green'
+        FOREGROUND_YELLOW = 'foreground.yellow'
+        FOREGROUND_BLUE = 'foreground.blue'
+        FOREGROUND_MAGENTA = 'foreground.magenta'
+        FOREGROUND_CYAN = 'foreground.cyan'
+        FOREGROUND_WHITE = 'foreground.white'
+        FOREGROUND_DEFAULT = 'foreground.default'
+
+        BACKGROUND = 'background'
+        BACKGROUND_BLACK = 'background.black'
+        BACKGROUND_RED = 'background.red'
+        BACKGROUND_GREEN = 'background.green'
+        BACKGROUND_YELLOW = 'background.yellow'
+        BACKGROUND_BLUE = 'background.blue'
+        BACKGROUND_MAGENTA = 'background.magenta'
+        BACKGROUND_CYAN = 'background.cyan'
+        BACKGROUND_WHITE = 'background.white'
+        BACKGROUND_DEFAULT = 'background.default'
+
+        REVERSE = 'reverse'
+        RESET_REVERSE = 'reset_reverse'
+        RESET = 'reset'
+        BRIGHT = 'bright'

@@ -1,0 +1,7 @@
+chromedriver
+.venv
+__pycache__
+.vscode
+*.egg-info
+*.pyc
+.DS_Store
